@@ -4,7 +4,7 @@ Welcome to our LeetCode Problem Repository! Here, you'll find a treasure trove o
 
 ## What is LeetCode?
 
-![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="200"/>
 
 LeetCode is more than just a website; it's a dynamic platform designed to help you sharpen your coding skills and prepare for technical interviews. Whether you're a seasoned programmer or just starting out, LeetCode offers a vast array of coding challenges and puzzles to suit every skill level.
 
