@@ -17,7 +17,7 @@ public class Binarys{
             break; // Exit loop if found
         }
     }
-
+//doublecheck
     if (!found) {
         result = (nums[middle] < target) ? middle + 1 : middle;
     }
